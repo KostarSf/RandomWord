@@ -1,6 +1,6 @@
 @font-face { 
     font-family: "NotoSerif";
-    src: url(NotoSerif-Regular.ttf) format("truetype");
+    src: url(../font/NotoSerif-Regular.ttf) format("truetype");
 }
 
 html,
